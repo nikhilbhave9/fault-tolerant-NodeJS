@@ -1,2 +1,2 @@
-# Fault Tolerant NodeJS
-Building a system for making NodeJS applications fault-tolerant
+# Fault Tolerant Collaborator in NodeJS
+Building a fault-tolerant, collaborative editor in NodeJS
